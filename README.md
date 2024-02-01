@@ -8,8 +8,8 @@ Steps to open this page are:-
 4. Now type this command on the terminal and Press Enter to see the page.
 
        npm start
+5. After start it will show something like "Uncaught runtime errors:" but ignore that and press on "Cross" to continue...
 
 Note:- 1. Please check it out that in your terminal you are at your React app's folder only to use "npm start".
 
-2. After start it will show something like "Uncaught runtime errors:" but ignore that and press on "Cross" to continue...
        
